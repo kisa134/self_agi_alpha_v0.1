@@ -1,0 +1,13 @@
+ollama
+langchain
+langchain-community
+langchain-core
+chromadb
+sentence-transformers
+transformers
+torch
+torchvision
+torchaudio
+tensorflow==2.15
+tf-keras
+streamlit
