@@ -8,6 +8,6 @@ transformers
 torch
 torchvision
 torchaudio
-tensorflow==2.15
+tensorflow==2.17.1
 tf-keras
 streamlit
