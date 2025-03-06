@@ -2,7 +2,7 @@ ollama
 langchain
 langchain-community
 langchain-core
-chromadb
+chromadb>=0.6.3
 sentence-transformers
 transformers
 torch
